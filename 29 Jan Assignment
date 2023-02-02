@@ -1,0 +1,51 @@
+1. Who developed Python Programming Language?
+  ==> Guido Van Rossum
+  
+2. Which type of Programming does Python support?
+  ==> Functional Programming , OOPs , Modular Programming
+  
+3. Is Python case sensitive when dealing with identifiers?
+  ==> Yes
+  
+4. What is the correct extension of the Python file?
+  ==> .py
+  
+5. Is Python code compiled or interpreted?
+  ==> Interpreted ,(Compilation is being take care internally by interpreter so, not required to compile Python programs explcitly)
+  
+6. Name a few blocks of code used to define in Python language?
+  ==> A block like function , method , class is used in python for reusability .
+  
+7. State a character used to give single-line comments in Python?
+  ==> '#' is being used for single line comment
+  
+8. Mention functions which can help us to find the version of python that we are currently working on?
+  ==> sys.version
+  
+9. Python supports the creation of anonymous functions at runtime, using a construct called
+  ==> Yes, in python anonymous function is known as lambda function
+  
+10. What does pip stand for python?
+  ==> Preferred Installer Program
+  
+11. Mention a few built-in functions in python?
+  ==> print() , id() , sum() , len() , type() , input() , pow() , max() et.c
+
+12. What is the maximum possible length of an identifier in Python?
+  ==> 79
+  
+13. What are the benefits of using Python?
+  ==> Python is a multi-perpus programming language
+  we can use python for web-application, desktop-application , data-science, Machine learning , game development et.c
+  
+14. How is memory managed in Python?
+  ==> Memory in Python is managed by Python private heap space
+  
+15. How to install Python on Windows and set path variables?
+  ==> 
+    step 1 :  Download lattest version of Python for whatever os you have from https://www.python.org › downloads
+    step 2 :  This PC > properties > Advanced system settings > Environment Variables > System variables section > select the Path variable > Edit > New
+              > enter Python’s install directory.
+              
+16. Is indentation required in python?
+   ==> Yes
